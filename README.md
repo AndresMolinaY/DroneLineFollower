@@ -61,11 +61,3 @@ Se probaron diferentes métodos para encontrar los parámetros adecuados:
 ## Autor
 
 Proyecto desarrollado por Kleber Molina como parte del curso de Implementación de Sistemas Mecatrónicos en el Tecnológico de Monterrey.
-
-## Vista previa
-
-Puedes agregar aquí capturas del dron siguiendo la línea o de la interfaz binaria en OpenCV, por ejemplo:
-
-```python
-cv2.imshow('Binary View', cleaned)
-cv2.imshow('Tello Line Tracking', frame)
